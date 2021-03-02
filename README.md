@@ -13,7 +13,7 @@
 
 - 📫 You can shoot me an email at: **kundu.b@northeastern.edu**       
  
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences Portfolio
 
 - ⚡ Fun fact **I love to read and write. Currently working on a story. I am an artist at heart and I do like flaunting some of my paints in the galleries!**
 
