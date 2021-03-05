@@ -12,8 +12,6 @@
 - 💬 2021 Goals: **Contribute more to the Open Source projects**
 
 - 📫 You can shoot me an email at: **kundu.b@northeastern.edu**       
- 
-- 📄 All of my experiences are available at: [https://github.com/Bhaghi-code/Resume](Resume)
 
 - ⚡ Fun fact **I love to read and write. Currently working on a story. I am an artist at heart and I do like flaunting some of my paints in the galleries!**
 
