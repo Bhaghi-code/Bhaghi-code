@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaghi-code" alt="bhaghi-code" /></a> </p>
 
-- 🔭 Working on project **Twitter Comments Trend Analysis using Tableau**  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+- 🔭 Working on project **Google Search Trend Analysis using Tableau**  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **ETL pipelines to enable myself as a Data Engineer**  
 
