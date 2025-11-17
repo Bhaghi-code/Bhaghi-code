@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bhaghirathi Kundu</h1>
-<h3 align="center">Data Enthusiast - I love to dig in the Trends!</h3>
+<h3 align="center">Product Manager - Driving Innovation with Data Insights!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaghi-code&label=Profile%20views&color=0e75b6&style=flat" alt="bhaghi-code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaghi-code" alt="bhaghi-code" /></a> </p>
 
-- 🔭 Working on project **Google Search Trend Analysis using Tableau**  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+- 🔭 Working on project **Google Search Trend Analysis**  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **ETL pipelines to enable myself as a Data Engineer**  
+- 🌱 I’m currently learning **Generative AI Product Management**  
 
 - 💬 2021 Goals: **Contribute more to the Open Source projects**
 
-- 📫 You can shoot me an email at: **kundu.b@northeastern.edu**       
+- 📫 You can shoot me an email at: **bhaghi.k08@gmail.com**       
 
 - ⚡ Fun fact **I love to read and write. Currently working on a story. I am an artist at heart and I do like flaunting some of my paints in the galleries!**
 
