@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI Product Management**  
 
-- 💬 2021 Goals: **Contribute more to the Open Source projects**
+- 💬 2024 Goals: **Contribute more to the Open Source projects**
 
 - 📫 You can shoot me an email at: **bhaghi.k08@gmail.com**       
 
