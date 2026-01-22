@@ -73,11 +73,11 @@
 </p>
 
 ### 📊 GitHub Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaghi-code&show_icons=true&theme=transparent" alt="Stats" />
+<p align="left">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaghi-code&show_icons=true&layout=compact&theme=transparent" alt="Langs" />
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=bhaghi-code&color=00D1FF&style=flat-square" alt="Views" />
 </div>
