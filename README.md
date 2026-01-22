@@ -22,11 +22,10 @@
 
 ---
 
-### 📚 Currently Reading (PM Growth)
+### 📚 Currently Reading 
 * 📖 **"Inspired"** by Marty Cagan — *Mastering how to create tech products customers love.*
-* 🤖 **"Co-Intelligence"** by Ethan Mollick — *Living and working with AI.*
-* 🎨 **"Steal Like an Artist"** by Austin Kleon — *Finding inspiration in the digital age.*
-
+* 📈 **"Outliers"** by Malcolm Gladwell — *Examining the factors that contribute to high levels of success.*
+* 🧠 **"The Best Minds"** by Jonathan Rosen — *A profound exploration of brilliance, friendship, and the limits of the human mind.*
 ---
 
 ### 🛠️ AI & PM Stack
