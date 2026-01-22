@@ -1,28 +1,20 @@
-<!-- Compact Header with Tiny Subtle AI Blob -->
 <div align="center">
 
-  <table>
-    <tr>
-      <!-- Typing text -->
-      <td align="center" valign="middle">
-        <img
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=800000&center=true&vCenter=true&width=560&lines=Building+Intelligent+Products;Transforming+Data+into+Strategy;Artist+at+Heart;Let%27s+Build+the+Future"
-          alt="Typing Animation"
-        />
-      </td>
+  <!-- Typing header -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=800000&center=true&vCenter=true&width=720&lines=Building+Intelligent+Products;Transforming+Data+into+Strategy;Artist+at+Heart;Let%27s+Build+the+Future"
+    alt="Typing SVG"
+  />
 
-      <!-- Tiny AI blob -->
-      <td valign="middle" width="90">
-        <img
-          src="https://assets-global.website-files.com/5e51c674258ffe10d286d30a/61f2e5a5d0b3c4a7e6c64f48_blob-gradient.gif"
-          alt="AI blob"
-          width="70"
-        />
-      </td>
-    </tr>
-  </table>
+  <!-- Tiny AI blob (subtle, centered, no layout break) -->
+  <br/>
+  <img
+    src="https://assets-global.website-files.com/5e51c674258ffe10d286d30a/61f2e5a5d0b3c4a7e6c64f48_blob-gradient.gif"
+    width="48"
+    alt="AI blob"
+  />
 
-  <!-- Roles (tight spacing) -->
+  <!-- Roles -->
   <p>
     <kbd>Product Manager</kbd> •
     <kbd>AI Strategist</kbd> •
@@ -31,20 +23,21 @@
 
   <!-- Links -->
   <p>
-    <a href="https://linkedin.com/in/bhaghirathi" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://linkedin.com/in/bhaghirathi">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://youtube.com/@BhaghirathiKundu" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <a href="https://youtube.com/@BhaghirathiKundu">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
-    <a href="https://bit.ly/BhagiratthiKundu" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <a href="https://bit.ly/BhagiratthiKundu">
+      <img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
   </p>
 
 </div>
 
 <hr/>
+
 
 
 
