@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=800000&height=200&section=header&text=Bhaghirathi%20Kundu&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvbm8wa3R6bm9qcWsyYm9ueXh4bmhxbmhxbmhxbmhxbmhxbmhxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGrwSgic/giphy.gif" width="100%" height="120px" style="border-radius: 10px;" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Building+Intelligent+Products;Product+Manager;AI+Strategist;Artist+at+Heart" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Bhaghirathi+Kundu;Product+Manager;Building+Intelligent+Products;Artist+at+Heart" alt="Typing Animation" />
   
   <br/>
 
@@ -12,13 +12,13 @@
   </p>
 
   <br/>
+
   <a href="https://linkedin.com/in/bhaghirathi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@BhaghirathiKundu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://bit.ly/BhagiratthiKundu" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://bit.ly/BhagiratthiKundu" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
----
-
+<br/>
 ### 🚀 AI Product Roadmap
 * 🤖 **Current Sprint:** **AI-Powered Customer Insight Engine** — architecting LLM workflows to turn messy user feedback into high-impact roadmaps.
 * 🧠 **Learning Lab:** Mastering **Agentic Workflows** and **RAG (Retrieval-Augmented Generation)** architectures to build more reliable AI products.
