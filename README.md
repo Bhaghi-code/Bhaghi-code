@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvbm8wa3R6bm9qcWsyYm9ueXh4bmhxbmhxbmhxbmhxbmhxbmhxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGrwSgic/giphy.gif" width="100%" height="120px" style="border-radius: 10px;" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=800000&height=220&section=header&text=Bhaghirathi%20Kundu&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Product%20Manager%20%7C%20AI%20Strategist&descAlignY=60&descSize=20" alt="Maroon Floating Header" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Bhaghirathi+Kundu;Product+Manager;Building+Intelligent+Products;Artist+at+Heart" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Building+Intelligent+Products;Transforming+Data+into+Strategy;Artist+at+Heart;Let's+Build+the+Future" alt="Typing Animation" />
   
   <br/>
 
-  <p align="center">
+  <h3>
     <kbd> Product Manager </kbd> • <kbd> AI Strategist </kbd> • <kbd> Creative Problem Solver </kbd>
-  </p>
+  </h3>
 
   <br/>
 
@@ -18,7 +18,7 @@
   <a href="https://bit.ly/BhagiratthiKundu" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
-<br/>
+---
 ### 🚀 AI Product Roadmap
 * 🤖 **Current Sprint:** **AI-Powered Customer Insight Engine** — architecting LLM workflows to turn messy user feedback into high-impact roadmaps.
 * 🧠 **Learning Lab:** Mastering **Agentic Workflows** and **RAG (Retrieval-Augmented Generation)** architectures to build more reliable AI products.
