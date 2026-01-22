@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=800000&height=220&section=header&text=Bhaghirathi%20Kundu&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Product%20Manager%20%7C%20AI%20Strategist&descAlignY=60&descSize=20" alt="Maroon Floating Header" />
-
-  <br/>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Building+Intelligent+Products;Transforming+Data+into+Strategy;Artist+at+Heart;Let's+Build+the+Future" alt="Typing Animation" />
   
   <br/>
