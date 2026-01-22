@@ -23,7 +23,7 @@
 <a href="https://instagram.com/bhaghirathikundu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bhaghirathikundu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhaghirathi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bhaghirathi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kundu_b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@kundu_b1" height="30" width="40" /></a>
-<a href="youtube.com/@BhaghirathiKundu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="@kundu_b1" height="30" width="40" /></a>
+<a href="youtube.com/@BhaghirathiKundu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
