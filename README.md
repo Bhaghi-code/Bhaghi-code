@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Bhaghirathi+Kundu;Product+Manager;Building+Intelligent+Products;Artist+at+Heart" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Bhaghirathi+Kundu;Product+Manager;Building+Intelligent+Products;Artist+at+Heart" alt="Typing Animation" />
   
   <h3>
     <kbd> Product Manager </kbd> • <kbd> AI Strategist </kbd> • <kbd> Creative Problem Solver </kbd>
@@ -14,20 +14,11 @@
 
 ---
 
-### 🎓 Professional Certifications
-<p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Google-AI_Product_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Coursera-Generative_AI_for_Everyone-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Scrum.org-PSM_I-223654?style=for-the-badge&logo=scrum.org&logoColor=white" /></a>
-</p>
-
----
-
 ### 🚀 AI Product Roadmap
 * 🤖 **Current Sprint:** **AI-Powered Customer Insight Engine** — architecting LLM workflows to turn messy user feedback into high-impact roadmaps.
-* 🧠 **Knowledge Stack:** Deep-diving into **Agentic RAG** and **Multi-modal AI** to build products that don't just "chat," but "do."
-* 🎯 **2026 Mission:** Bridging the gap between technical feasibility and human-centric AI design.
-* 🎨 **The Creative Edge:** I’m an artist who views a Product Roadmap as a canvas—blending data-driven logic with "human brushstrokes."
+* 🧠 **Learning Lab:** Mastering **Agentic Workflows** and **RAG (Retrieval-Augmented Generation)** architectures to build more reliable AI products.
+* 🎯 **2026 Mission:** Leading the transition from "AI-enabled" to "AI-Native" product experiences.
+* 🎨 **Personal Side:** When I'm not playing around AI, I'm an artist at heart, bringing a creative "human-in-the-loop" perspective to everything I build.
 
 ---
 
