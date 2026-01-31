@@ -47,7 +47,7 @@
 * 🤖 **Current Sprint:** **AI-Powered Customer Insight Engine** — architecting LLM workflows to turn messy user feedback into high-impact roadmaps.
 * 🧠 **Learning Lab:** Mastering **Agentic Workflows** and **RAG (Retrieval-Augmented Generation)** architectures to build more reliable AI products.
 * 🎯 **2026 Mission:** Leading the transition from "AI-enabled" to "AI-Native" product experiences.
-* 🎨 **Personal Side:** When I'm not playing around AI, I'm an artist at heart, bringing a creative "human-in-the-loop" perspective to everything I build.
+* 🎨 **Personal Side:** A proud book hoarder who hit the globally celebrated 50 book milestone last year and still can’t resist adding more to the stack!
 
 ---
 
