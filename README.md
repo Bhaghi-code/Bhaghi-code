@@ -66,11 +66,14 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" height="25"/>
   <img src="https://img.shields.io/badge/Gamma-9C33FF?style=flat-square&logo=gamma&logoColor=white" alt="Gamma" height="25"/>
   <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="AI Studio" height="25"/>
+  <img src="https://img.shields.io/badge/pgvector-PostgreSQL_Vector_Search-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" height="25"/>
+  <img src="https://img.shields.io/badge/Vector_Search-Embeddings-111111?style=flat-square" alt="Vector Search" height="25"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-Retrieval-111111?style=flat-square" alt="RAG Pipelines" height="25"/>
 </p>
 
 ### ⚙️ Technical Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mongodb,mysql,postgres,cassandra,hadoop,selenium,ps" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,mongodb,mysql,postgres,aws,gcp,supabase,cassandra,hadoop,selenium,ps" alt="Tech Stack" />
 </p>
 
 ### 📊 GitHub Impact
