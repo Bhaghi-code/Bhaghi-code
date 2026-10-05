@@ -20,6 +20,7 @@
     <kbd>Product Manager</kbd> •
     <kbd>AI Strategist</kbd> •
     <kbd>Creative Problem Solver</kbd>
+    <kbd>CSPO®</kbd>
   </p>
 
   <!-- Links -->
